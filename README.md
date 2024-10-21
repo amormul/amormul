@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">I am a dedicated student pursuing my degree in System Analysis. I am passionate about programming, especially in backend development, and I am eager to learn and grow in this field.</h3>
+<h3 align="left">I am a dedicated student pursuing my degree in System Analysis. I am passionate about programming, especially in backend development, and I am eager to learn and grow in this field.</h3>
 
 - 🌱 I’m currently learning **PHP**
 

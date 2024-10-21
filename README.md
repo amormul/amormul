@@ -5,6 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  [![Telegram](https://img.shields.io/badge/Telegram-0077CC?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

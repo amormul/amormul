@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="left">I am a dedicated student pursuing my degree in System Analysis. I am passionate about programming, especially in backend development, and I am eager to learn and grow in this field.</h3>
+<h3 align="center">I am a dedicated student pursuing my degree in System Analysis. I am passionate about programming, especially in backend development, and I am eager to learn and grow in this field.</h3>
 
 - 🌱 I’m currently learning **PHP**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://t.me/MormulAnton">
         <img src="https://img.shields.io/badge/Telegram-0077CC?style=flat&logo=telegram&logoColor=white" alt="Telegram">
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -45,7 +45,7 @@
 
 ### 📈 GitHub Statistics
 
-<p align="left">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=amormul&show_icons=true&theme=radical" alt="amormul's GitHub stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amormul&layout=compact&theme=radical" alt="Top Langs" width="400"/>
 </p>

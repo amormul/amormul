@@ -45,7 +45,7 @@
 
 ### 📈 GitHub Statistics
 
-<p align="center" style="display: flex; gap: 20px;">
+<p align="center" style="display: flex; gap: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=amormul&show_icons=true&theme=radical" alt="amormul's GitHub stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amormul&layout=compact&theme=radical" alt="Top Langs" width="400"/>
 </p>

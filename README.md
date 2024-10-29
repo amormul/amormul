@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35">, I'm Anthony</h1>
 
-<h3 align="left">I am a dedicated student pursuing my degree in System Analysis. I am passionate about programming, especially in backend development, and I am eager to learn and grow in this field.</h3>
+<h3 align="left">I'm a System Analysis student with a passion for programming. Currently, I’m diving into backend development, but I’m also exploring the exciting world of frontend technologies. My journey in tech is just beginning, and I’m eager to learn, collaborate, and contribute to meaningful projects. Check out my repositories to see what I’ve been working on!</h3>
+
 
 - 🌱 I'm currently learning **PHP**
 

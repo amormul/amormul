@@ -3,7 +3,7 @@
 <h3 align="left">I'm a System Analysis student with a passion for programming. Currently, I’m diving into backend development, but I’m also exploring the exciting world of frontend technologies. My journey in tech is just beginning, and I’m eager to learn, collaborate, and contribute to meaningful projects. Check out my repositories to see what I’ve been working on!</h3>
 
 
-- 🌱 I'm currently learning **PHP**
+- 🌱 Currently expanding my skills in **PHP** and web development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

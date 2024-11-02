@@ -48,6 +48,6 @@
 ### 📈 GitHub Statistics
 
 <p align="center" style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amormul&show_icons=true&theme=dark" alt="amormul's GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amormul&show_icons=true&theme=dark" alt="amormul's GitHub stats" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amormul&layout=compact&theme=dark" alt="Top Langs" width="400"/>
 </p>

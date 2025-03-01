@@ -29,11 +29,17 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
   </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/>
+  </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
@@ -43,6 +49,9 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
   </a>
 </p>
 

@@ -10,6 +10,9 @@
   <a href="https://t.me/MormulAnton">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://www.linkedin.com/in/anthony-mormul/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

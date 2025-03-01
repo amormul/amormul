@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/MormulAnton">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/MormulAnton" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/anthony-mormul/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/anthony-mormul/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
 </p>
 

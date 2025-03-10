@@ -15,6 +15,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -56,9 +58,3 @@
 </p>
 
 ---
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amormul&layout=compact&theme=dark" alt="Top Langs" width="400"/>
-</p>

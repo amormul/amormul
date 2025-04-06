@@ -56,5 +56,3 @@
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
   </a>
 </p>
-
----

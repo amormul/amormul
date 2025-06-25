@@ -22,9 +22,6 @@ Check out my repositories — let’s grow together!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amormul&layout=compact&theme=radical&hide_border=true" />
 </p>
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=amormul&hide_border=true&theme=github-light&currStreakLabel=000000" />
-</p>
 
 ---
 
